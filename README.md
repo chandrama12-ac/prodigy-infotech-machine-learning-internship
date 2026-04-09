@@ -1,6 +1,44 @@
-Prodigy Infotech Machine Learning Internship
-Overview
-This repository contains all the projects, assignments, and deliverables completed during my Machine Learning Internship at Prodigy Infotech. The internship focused on hands-on implementation of various machine learning algorithms, data preprocessing techniques, model evaluation, and deployment.
+# 🧠 Prodigy InfoTech - Machine Learning Internship
+
+## 📌 Introduction
+This repository contains all the tasks and projects completed during my **Machine Learning Internship at Prodigy InfoTech**. The internship focused on building practical machine learning skills through hands-on projects using real-world datasets.
+
+The goal of this repository is to demonstrate my understanding of core ML concepts such as data preprocessing, model building, evaluation, and visualization.
+
+---
+
+## 📚 Table of Contents
+- Introduction
+- Features
+- Installation
+- Usage
+- Project Structure
+- Technologies Used
+- Examples
+- Troubleshooting
+- Contributors
+- License
+
+---
+
+## ✨ Features
+- Hands-on machine learning projects
+- Data preprocessing and visualization
+- Implementation of ML algorithms
+- Model evaluation and performance analysis
+- Clean and modular code structure
+
+---
+
+## ⚙️ Installation
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/chandrama12-ac/prodigy-infotech-machine-learning-internship.git
+cd prodigy-infotech-machine-learning-internship
+
+👉 Just tell me: *“enhance it”* or share your task files.
+::contentReference[oaicite:2]{index=2}
 
 Table of Contents
 Technologies Used
